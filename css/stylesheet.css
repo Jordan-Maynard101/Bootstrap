@@ -1,0 +1,22 @@
+.outline
+{
+    border-style: solid;
+    border-color:#750000;
+    margin-top: 20px ;
+}
+*
+{
+    background-color: black;
+    color: #750000;
+}
+
+body
+{
+    background-color: black;
+    color:#750000;
+}
+.list-group-item-action
+{
+    background-color: black;
+    color:#750000;
+}
